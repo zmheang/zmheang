@@ -19,4 +19,4 @@
 
 
 
-*<u>me</u>*		*<u>about</u>*		*<u>plan</u>*		*<u>notes</u>*		<u>*bugs*</u>
+[me]()         		[plan]()	          	[notes]()	          	[bugs]()	      	
