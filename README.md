@@ -19,4 +19,4 @@
 
 
 
-[me]()         		[plan]()	          	[notes]()	          	[bugs]()	      	
+[me]()               [plan]()              [notes]()               [bugs]()	      	
