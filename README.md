@@ -95,7 +95,7 @@
   <summary>系列001</summary>
   <div style="width: 98%; margin: 0 auto">
       <ul>
-        <li><a href="https://juejin.cn/post/6844904013666713607">文章001</a></li>
+        <li><a href="#">文章001</a></li>
      
 </ul>
   </div>
