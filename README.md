@@ -81,7 +81,7 @@
 <div style="width: 98%; margin: 0 auto">
 <ul>
 
-<li>4月，整理github个人首页，准备开始好好学习，并有一定量的产出</li>
+<li>4月，整理github个人首页，好好准备面试，并有一定量的产出</li>
 </ul>
 </div>
 </details>
