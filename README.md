@@ -25,7 +25,7 @@
 **我的开源项目:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zmheang&repo=zmheangZone)](https://github.com/zmheang/zmheangZone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zmheang&repo=zmheangZone)](https://github.com/zmheang/vite-vue3-baseTamplate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zmheang&repo=vite-vue3-baseTamplate)](https://github.com/zmheang/vite-vue3-baseTamplate)
 
 ------
 
