@@ -10,7 +10,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
-- 💬 如果你对我感兴趣，可以加我[微信](#) 进一步交流。
+- 💬 如果e你对我感兴趣，可以关注我的[个人网站](http://zmheang.cn)。
 - 📫 我的邮箱: [zmheang0528@163.com](#)   |  [zmlily0528@gmail.com](#);
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/3694003109497480)
 
