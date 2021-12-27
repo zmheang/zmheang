@@ -4,8 +4,7 @@
 
 <br />
 
-你好， 我是 [zmheang](#) ，出生于1995年，一位具有2年java，2年前端工作经验的前端开发工程师。
-
+你好， 我是 [zmheang](#) ，是个前端，懂点Java。
 本科学的都是java，但是由于公司原因转了前端，但是现在也并不是太想回去了，所以现在是个前端小白...
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
