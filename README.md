@@ -7,7 +7,7 @@
 你好， 我是 [zmheang](#) ，是个前端，懂点Java。
 本科学的都是java，但是由于公司原因转了前端，但是现在也并不是太想回去了，所以现在是个前端小白...
 
-  <img align="right" alt="GIF" src="https://gitee.com/koron_1_zmheang0528/imgs/raw/master//imgs/1111.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://gitee.com/koron_1_zmheang0528/imgs/raw/master/imgs/1111.gif" width="430" height="100%" />
 
 - 💬 如果e你对我感兴趣，可以关注我的[个人网站](http://zmheang.cn)。
 - 📫 我的邮箱: [zmheang0528@163.com](#)   |  [zmlily0528@gmail.com](#);
